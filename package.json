@@ -1,5 +1,5 @@
 {
-  "name": "grouploop",
+  "name": "groupslider",
   "version": "1.0.1",
   "description": "A jquery plugin that creates a marquee with any group of DOM elements.",
   "main": "dist/grouploop.min.js",
