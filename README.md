@@ -2,7 +2,7 @@
 
 A jquery plugin that creates a marquee with any group of DOM elements, with a variety of options.
 
-![Example]()
+![Example](https://github.com/ZakariaTlilani/grouploop/blob/master/img/example.gif?raw=true)
 
 [Live Demo](https://codepen.io/zakaria-Tlilani/full/VYvzWMj/)
 
