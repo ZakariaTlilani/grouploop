@@ -8,9 +8,11 @@ A jquery plugin that creates a marquee with any group of DOM elements, with a va
 
 ### Setup
 
-Include jQuery and the library in your html:
+You can install it using npm:
 
-`<script type="text/javascript" src="dist/grouploop-1.0.0.min.js"></script>`
+```
+  npm i grouploop
+```
 
 Create a container with a unique id and group some elements in a wrapper.
 
