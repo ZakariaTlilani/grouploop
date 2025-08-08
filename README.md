@@ -2,7 +2,9 @@
 
 A jquery plugin that creates a marquee with any group of DOM elements, with a variety of options.
 
-[Live Demo](https://grouploop-demos.netlify.com/examples/)
+![Example]()
+
+[Live Demo](https://codepen.io/zakaria-Tlilani/full/VYvzWMj/)
 
 ### Setup
 
